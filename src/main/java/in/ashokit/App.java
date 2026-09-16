@@ -5,6 +5,10 @@ package in.ashokit;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello updated World!");
+        System.out.println("Hello new Updated World!");
+        System.out.println("Nice");
+
+        
+
     }
 }
